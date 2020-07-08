@@ -1,4 +1,4 @@
-# SimpleMavenProject
+# SimpleMavenProject - for the Jenkins Primer Course
 
 
 * This is a simple project that uses Maven and Unit to test/compile/install a light weight Java package.
