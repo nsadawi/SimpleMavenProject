@@ -1,5 +1,5 @@
 package nour;
-print('x')
+
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
