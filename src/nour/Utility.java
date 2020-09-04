@@ -7,7 +7,7 @@ import java.text.NumberFormat;
 public class Utility {
 
  /**
-  * formats a number
+  * This method formats a number
   * @param n
   * @return formatted
   */
@@ -20,7 +20,7 @@ public class Utility {
  }
 
  /**
-  * checks if an int array contains an int element
+  * This method checks if an int array contains an int element
   *
   * @param arr the int array
   * @param e the element
