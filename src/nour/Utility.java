@@ -7,7 +7,7 @@ import java.text.NumberFormat;
 public class Utility {
 
  /**
-  * This method formats a number
+  * This method formats a real number
   * @param n
   * @return formatted
   */
