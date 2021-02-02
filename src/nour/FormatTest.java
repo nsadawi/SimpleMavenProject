@@ -3,7 +3,7 @@ package nour;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+\\ test function Format
 public class FormatTest {
 
  @Test
